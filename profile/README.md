@@ -1,6 +1,6 @@
 # Estore Corp.
 
-## Product Development Div.
+Please access to https://estore.jp/ .
 
 <!--
 **Here are some ideas to get you started:**
